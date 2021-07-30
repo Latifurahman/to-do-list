@@ -1,0 +1,16 @@
+.todo-list-container{
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.todo-list-container p{
+    padding: 0 10px;
+}
+.todo-list-container button{
+    color: red;
+    background-color: #fff;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}

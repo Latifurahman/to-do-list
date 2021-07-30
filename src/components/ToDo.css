@@ -1,0 +1,57 @@
+.todo-container{
+    background-image: linear-gradient(to right,#5BCDFE, #4793F5 );
+    height: 100vh;
+}
+.todo-title{
+    padding-top: 10px;
+}
+.todo-title h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+}
+.todo-form{
+    margin-bottom: 52px;
+}
+.todo-form input{
+    width: 382px;
+    padding-left: 10px;
+    font-size: 20px;
+    position: relative;
+    outline: none;
+    border: none;
+    height: 51px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.todo-form button{
+    position: absolute;
+    margin-left: -90px;
+    font-size: 20px;
+    margin-top: 12px;
+    background-color: #3C6FFB;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+.todo-detail{
+    margin: 0 auto;
+    width: 382px;
+    background-color: #ffff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
