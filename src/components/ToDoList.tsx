@@ -16,8 +16,8 @@ const ToDoList = ({name, handleDelete}: IToDoList) => {
                     {name}
                 </p>
                 <button onClick={() => handleDelete(name)}><DeleteIcon></DeleteIcon></button>
+                
             </div>
-            <hr />
         </div>
     );
 };
